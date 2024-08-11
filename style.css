@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  background-color: blue;
+  display: flex;
+}
+
+.container div {
+  background-color: red;
+}
+
+.item_1 {
+  flex-grow: 1;
+}
